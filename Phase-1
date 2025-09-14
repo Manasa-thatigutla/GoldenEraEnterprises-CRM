@@ -18,7 +18,7 @@
 
 **Goal:** Identify who will use or benefit from the CRM.
 
-### Internal Users:
+## Internal Users:
 - **Sales Team:** Needs customer history and inventory info.
 - **Managers:** Want reports and dashboards.
 - **Marketing Team:** Needs customer data for targeted campaigns.
@@ -40,7 +40,7 @@
 - No proper tracking of post-sale services like repairs or resizing.
 - Marketing messages are not personalized.
 
-### How Salesforce Helps:
+## How Salesforce Helps:
 - Automates data entry and updates.
 - Centralizes sales and customer info.
 - Tracks inventory in real-time.
@@ -52,13 +52,13 @@
 
 **Goal:** Understand jewelry industry needs to design a better CRM.
 
-### Jewelry Retail Needs:
+## Jewelry Retail Needs:
 - Personalized customer service (preferences, occasions).
 - Follow-ups for high-value purchases.
 - Regular reminders for cleaning or repairs.
 - Building long-term customer loyalty.
 
-### Salesforce Solutions:
+## Salesforce Solutions:
 - Custom fields for preferences, ring size, etc.
 - Service Cloud for tracking repairs.
 - Marketing automation for events like birthdays or anniversaries.
@@ -70,12 +70,12 @@
 
 **Goal:** Find ready-to-use Salesforce apps that add value.
 
-### Helpful App Types:
+## Helpful App Types:
 - Appointment booking
 - Loyalty and rewards management
 - Inventory and repair tracking
 
-### Action Steps:
+## Action Steps:
 - Explore top-rated apps on AppExchange.
 - Check for compatibility with Sales or Service Cloud.
 - Choose between using apps or custom development.
