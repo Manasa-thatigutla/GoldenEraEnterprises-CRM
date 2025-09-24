@@ -19,5 +19,5 @@ Jewelry stores like Golden Era Enterprises face challenges in managing customer 
   - Customer buying trends  
   - Inventory levels and reorder alerts  
   - Customer engagement and service history
- 
-  Link for GoldenEra Enterprises project Demo Vedio:https://drive.google.com/file/d/1VQztyTQ0CUdt8Oaxqn9CtwsQdSVo-6Kg/view?usp=drive_link
+
+Link for GoldenEra Enterprises project Demo Vedio:https://drive.google.com/file/d/1VQztyTQ0CUdt8Oaxqn9CtwsQdSVo-6Kg/view?usp=drive_link
