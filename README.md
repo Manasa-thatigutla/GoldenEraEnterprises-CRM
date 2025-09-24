@@ -9,15 +9,12 @@ Jewelry stores like Golden Era Enterprises face challenges in managing customer 
 - Customers create profiles with their preferences, past purchases, anniversaries, and style interests.
 - Sales team records interactions and purchase history directly in the CRM.
 - Salesforce sends automated notifications to customers about:
-  - New arrivals  
-  - Personalized offers  
-  - Service reminders (e.g., maintenance, cleaning, or repair updates)
+  - Order Confirmation 
+  - Personalized offer 
+  - Service reminders
 - Inventory is tracked in real-time, showing availability across collections and categories.
 - Appointments for in-store visits or virtual consultations can be scheduled and tracked inside Salesforce.
-- Dashboards provide real-time insights to store managers showing:
-  - Top-selling products and collections  
-  - Customer buying trends  
-  - Inventory levels and reorder alerts  
-  - Customer engagement and service history
+- Dashboards provide real-time insights to store.
 
-Link for GoldenEra Enterprises project Demo Vedio:https://drive.google.com/file/d/1VQztyTQ0CUdt8Oaxqn9CtwsQdSVo-6Kg/view?usp=drive_link
+
+GoldenEra Enterprises project Demo Vedio:https://drive.google.com/file/d/1VQztyTQ0CUdt8Oaxqn9CtwsQdSVo-6Kg/view?usp=drive_link
